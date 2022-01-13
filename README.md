@@ -3,7 +3,7 @@
 **A New Life** is a music single that consists of 2 tracks:
 
 - Human Migration. It uses aircraft altitude and speed data to generate the melody.
-- Tallinn In December. It uses real-time hourly weather forecast data of Tallinn generate the melody.
+- Tallinn In December. It uses real-time hourly weather forecast data of Tallinn to generate the melody.
 
 The JavaScript code will generate MIDI data and send it to DAW (Digital Audio Workstation) in real-time to control my Korg Kross 2 synthesizer. After that, the synthesizer will send back the audio to the DAW, and the DAW will record it as an audio track.
 
